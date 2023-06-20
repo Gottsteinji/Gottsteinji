@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gottsteinji
 - 👀 I’m interested in learn to start coding
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on ? Xcode, openapi.com
 - 📫 How to reach me @ manuel@voyage-steg.ch
 
 <!---
